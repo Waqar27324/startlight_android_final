@@ -33,5 +33,5 @@
         android:visible="false"
         app:showAsAction="ifRoom"
         tools:showAsAction="always" />
-
+<!--always-->
 </menu>
